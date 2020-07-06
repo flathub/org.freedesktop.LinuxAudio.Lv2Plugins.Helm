@@ -1,3 +1,5 @@
 {
+    "end-of-life": "This plugin package is now part of...",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.Helm",
     "skip-icons-check": true
 }
